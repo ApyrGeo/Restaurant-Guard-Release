@@ -4,7 +4,7 @@
 
 This is a personal project written in C#. It`s focus is to implement a working interface for managing a restaurant.
 
-Changes made in this map are syncronised across all the users that are using the app.
+Changes made in this app are syncronised across all the users that are connected to the same restaurant platform.
 
 # Downolading and running the app
 
