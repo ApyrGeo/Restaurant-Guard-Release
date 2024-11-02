@@ -11,3 +11,10 @@ Changes made in this app are syncronised across all the users that are connected
 Download the files as a .zip and unzip after instalation.
 
 To open the app, run "Restaurant Management App 2.exe" (you may need to install some .NET prerequisites in order to work).
+
+
+# Code
+
+If you want to see the source code:
+
+[Source Code](https://github.com/ApyrGeo/Restaurant-Guard)
