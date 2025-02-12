@@ -8,7 +8,9 @@ Changes made in this app are syncronised across all the users that are connected
 
 # Presentation video
 
-[](https://youtu.be/RtAD6nvhHDI)
+[![Presentation](https://github.com/user-attachments/assets/5ef5f252-aae1-48eb-be9a-d67c9cd31220)](https://youtu.be/RtAD6nvhHDI?si=d886_wr3d8ZaHEix)
+
+> Click to watch
 
 # Downolading and running the app
 
