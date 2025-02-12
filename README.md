@@ -6,6 +6,10 @@ This is a personal project written in C#. It`s focus is to implement a working i
 
 Changes made in this app are syncronised across all the users that are connected to the same restaurant platform.
 
+# Presentation video
+
+[](https://youtu.be/RtAD6nvhHDI)
+
 # Downolading and running the app
 
 Download the files as a .zip and unzip after instalation.
